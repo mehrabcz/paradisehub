@@ -1,0 +1,4 @@
+**.pyc
+db.sqlite
+web/migrations/00*
+
